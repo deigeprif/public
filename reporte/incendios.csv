@@ -1,5 +1,5 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
-779275912,QUILLAGUASA,Controlado,3,1,2025-09-29 00:00,,,"3,50",-19.91301155090332,-69.4968032836914,CONAF,Pastizal,,Huara,Tamarugal,Tarapacá,2,01 Tarapacá,2025-09-29 00:00:00,lunes,1
+779275912,QUILLAGUASA,Extinguido,3,1,2025-09-29 00:00,,2025-09-29 19:37,"3,50",-19.91301155090332,-69.4968032836914,CONAF,Pastizal,,Huara,Tamarugal,Tarapacá,2,01 Tarapacá,2025-09-29 00:00:00,lunes,1
 779275455,PLAZA YUNGAY,Extinguido,2,1,2025-09-28 06:50,,,nan,-20.491411209106445,-69.32510375976562,CONAF,,,Pica,Tamarugal,Tarapacá,2,01 Tarapacá,2025-09-28 06:50:00,domingo,7
 777217333,IPLA,Extinguido,1,1,2025-07-22 00:30,2025-07-22 01:45,2025-07-22 02:35,"0,13",-20.074562072753906,-69.21556854248047,CONAF,Pastizal,,Pozo Almonte,Tamarugal,Tarapacá,2,01 Tarapacá,2025-07-22 00:30:00,martes,1
 777383343,RAFAEL ZORRAINDO,Extinguido,1,3,2025-08-04 13:35,2025-08-04 16:00,2025-08-05 17:22,"0,17",-27.398555755615234,-70.29679870605469,CONAF,Arbolado natural,,Copiapó,Copiapó,Atacama,4,03 Atacama,2025-08-04 13:35:00,lunes,14

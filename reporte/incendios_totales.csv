@@ -320,7 +320,7 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 783364089,PELANTARO,Extinguido,69,9,2025-10-31 16:18,2025-10-31 16:57,2025-10-31 16:57,"0,10",-38.51527786254883,-72.76055908203125,CONAF,Matorral,,Galvarino,Cautín,La Araucanía,12,09 La Araucanía,2025-10-31 16:18:00,viernes,17
 779663781,FUNDO CAREN,Extinguido,12,13,2025-10-03 14:19,2025-10-03 15:08,2025-10-03 15:29,"0,02",-34.0653076171875,-71.22021484375,CONAF,Arbolado natural,,Alhué,Melipilla,Metropolitana,7,13 Metropolitana,2025-10-03 14:19:00,viernes,15
 784651292,FINAL CALLE SAN DIEGO 2,En combate,54,5,2025-11-07 16:17,,,nan,nan,nan,CONAF,,,Calera,Quillota,Valparaíso,6,05 Valparaíso,2025-11-07 16:17:00,viernes,17
-784656916,EL PAUMAL,En combate,55,5,2025-11-07 16:46,,,"0,03",nan,nan,CONAF,Pastizal,,Nogales,Quillota,Valparaíso,6,05 Valparaíso,2025-11-07 16:46:00,viernes,17
+784656916,EL PAUMAL,En combate,55,5,2025-11-07 16:42,,,"0,03",-32.692657470703125,-71.17779541015625,CONAF,Pastizal,,Nogales,Quillota,Valparaíso,6,05 Valparaíso,2025-11-07 16:42:00,viernes,17
 784651807,LO CASTRO 2,Controlado,60,13,2025-11-07 16:18,2025-11-07 17:25,,"0,30",-33.30335998535156,-70.79016876220703,CONAF,Pastizal,,Lampa,Chacabuco,Metropolitana,7,13 Metropolitana,2025-11-07 16:18:00,viernes,17
 782697849,CAMINO A LA SERENA,Extinguido,53,9,2025-10-27 20:48,2025-10-28 01:40,2025-10-28 22:27,"1,50",-38.62152862548828,-72.69349670410156,CONAF,Pastizal,,Temuco,Cautín,La Araucanía,12,09 La Araucanía,2025-10-27 20:48:00,lunes,21
 779701104,REUMéN,Extinguido,26,9,2025-10-03 21:22,2025-10-04 00:30,2025-10-04 09:15,"0,01",-38.65833282470703,-72.66194152832031,CONAF,Pastizal,,Temuco,Cautín,La Araucanía,12,09 La Araucanía,2025-10-03 21:22:00,viernes,22

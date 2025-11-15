@@ -1,7 +1,7 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
 786044234,HUAPITRIO,Controlado,102,9,2025-11-14 16:48,,,"3,00",-37.932220458984375,-72.25389099121094,CONAF,Plantación eucaliptus,,Collipulli,Malleco,La Araucanía,12,09 La Araucanía,2025-11-14 16:48:00,viernes,17
 786187898,CALLEJON BRUNO PIZARRO,Controlado,3,3,2025-11-15 12:41,2025-11-15 14:33,,"0,56",-27.420000076293945,-70.30000305175781,CONAF,,,Copiapó,Copiapó,Atacama,4,03 Atacama,2025-11-15 12:41:00,sábado,13
-786165769,73 - LOMA ALTA,Controlado,62,8,2025-11-15 10:07,2025-11-15 11:15,,"0,18",-36.63694381713867,-72.90528106689453,Empresa,,,Tomé,Concepción,Biobío,11,08 Biobío,2025-11-15 10:07:00,sábado,11
+786165769,73 - LOMA ALTA,Extinguido,62,8,2025-11-15 10:07,2025-11-15 11:15,2025-11-15 13:26,"0,18",-36.63694381713867,-72.90528106689453,Empresa,,,Tomé,Concepción,Biobío,11,08 Biobío,2025-11-15 10:07:00,sábado,11
 786169930,LAS CAMELIAS,Extinguido,78,7,2025-11-15 10:48,2025-11-15 11:42,2025-11-15 12:34,"0,40",-35.880001068115234,-71.58555603027344,CONAF,Pastizal,,Linares,Linares,Maule,9,07 Maule,2025-11-15 10:48:00,sábado,11
 786067606,HIJUELA #3,Extinguido,61,8,2025-11-14 15:02,2025-11-14 15:47,2025-11-14 16:39,"0,10",-37.469696044921875,-73.3697509765625,Empresa,,,Curanilahue,Arauco,Biobío,11,08 Biobío,2025-11-14 15:02:00,viernes,16
 781732283,COLONIA ISABEL RIQUELME,Extinguido,4,12,2025-10-21 15:55,2025-10-21 16:15,2025-10-22 15:06,"0,06",-51.760276794433594,-72.43963623046875,CONAF,Pastizal,,Natales,Ultima Esperanza,Magallanes,16,12 Magallanes,2025-10-21 15:55:00,martes,16

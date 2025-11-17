@@ -1,5 +1,6 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
 786165769,73 - LOMA ALTA,Extinguido,62,8,2025-11-15 10:07,2025-11-15 11:15,2025-11-15 13:26,"0,18",-36.63694381713867,-72.90528106689453,Empresa,,,Tomé,Concepción,Biobío,11,08 Biobío,2025-11-15 10:07:00,sábado,11
+786395115,RIVERA ÑUBLE ORIENTE II,Extinguido,58,16,2025-11-16 18:25,2025-11-16 19:10,2025-11-16 21:20,"0,43",-36.53972244262695,-72.0808334350586,CONAF,,,San Carlos,Punilla,Ñuble,10,16 Ñuble,2025-11-16 18:25:00,domingo,19
 786397591,EL DURAZNO,Controlado,82,8,2025-11-16 18:36,2025-11-16 21:23,,"0,25",-37.34361267089844,-72.1763916015625,CONAF,,,Los Angeles,Biobio,Biobío,11,08 Biobío,2025-11-16 18:36:00,domingo,19
 786193150,PICHIBUDI,Extinguido,79,7,2025-11-15 15:10,2025-11-15 17:48,2025-11-15 18:32,"0,50",-34.8757209777832,-72.15210723876953,CONAF,Plantación eucaliptus,,Vichuquén,Curicó,Maule,9,07 Maule,2025-11-15 15:10:00,sábado,16
 786190950,QUELIHUE,Extinguido,103,9,2025-11-15 14:44,2025-11-15 15:10,2025-11-15 15:15,"0,10",-38.72694396972656,-72.70166778564453,CONAF,,,Temuco,Cautín,La Araucanía,12,09 La Araucanía,2025-11-15 14:44:00,sábado,15
@@ -16,7 +17,6 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 786067606,HIJUELA #3,Extinguido,61,8,2025-11-14 15:02,2025-11-14 15:47,2025-11-14 16:39,"0,10",-37.469696044921875,-73.3697509765625,Empresa,,,Curanilahue,Arauco,Biobío,11,08 Biobío,2025-11-14 15:02:00,viernes,16
 786183045,PUERTO CHOQUE,Extinguido,75,8,2025-11-15 13:23,2025-11-15 16:01,2025-11-15 16:44,"0,12",-38.190834045410156,-73.35472106933594,CONAF,Plantación eucaliptus,,Tirúa,Arauco,Biobío,11,08 Biobío,2025-11-15 13:23:00,sábado,14
 786362440,SAN LUIS NORTE,Controlado,101,13,2025-11-16 15:27,2025-11-16 19:47,,"1,70",-33.350276947021484,-70.7611083984375,CONAF,Pastizal,,Quilicura,Santiago,Metropolitana,7,13 Metropolitana,2025-11-16 15:27:00,domingo,16
-786395115,RIVERA ÑUBLE ORIENTE II,Extinguido,58,16,2025-11-16 18:25,2025-11-16 19:10,2025-11-16 21:20,"0,43",-36.53972244262695,-72.0808334350586,CONAF,,,San Carlos,Punilla,Ñuble,10,16 Ñuble,2025-11-16 18:25:00,domingo,19
 786230954,EL ALMENDRO ORIENTE,Extinguido,96,13,2025-11-15 19:24,2025-11-15 20:44,2025-11-15 21:02,"0,10",-33.38155746459961,-70.61135864257812,CONAF,Pastizal,,Huechuraba,Santiago,Metropolitana,7,13 Metropolitana,2025-11-15 19:24:00,sábado,20
 786044234,HUAPITRIO,Extinguido,102,9,2025-11-14 16:48,,2025-11-15 17:10,"3,00",-37.932220458984375,-72.25389099121094,CONAF,Plantación eucaliptus,,Collipulli,Malleco,La Araucanía,12,09 La Araucanía,2025-11-14 16:48:00,viernes,17
 786187898,CALLEJON BRUNO PIZARRO,Extinguido,3,3,2025-11-15 12:30,2025-11-15 17:43,2025-11-15 18:27,"1,10",-2371942.0,-6967514.0,CONAF,Arbolado natural,,Copiapó,Copiapó,Atacama,4,03 Atacama,2025-11-15 12:30:00,sábado,13

@@ -695,5 +695,5 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 786364672,RANQUILCO,Controlado,105,9,2025-11-16 15:48,2025-11-16 17:54,,"1,20",-38.635276794433594,-72.91139221191406,CONAF,Plantación eucaliptus,,Cholchol,Cautín,La Araucanía,12,09 La Araucanía,2025-11-16 15:48:00,domingo,16
 786357186,SANTA LAURA,Extinguido,83,7,2025-11-16 15:06,2025-11-16 16:23,2025-11-16 16:36,"1,00",-34.96110916137695,-71.2286148071289,CONAF,Pastizal,,Curicó,Curicó,Maule,9,07 Maule,2025-11-16 15:06:00,domingo,16
 786375143,CHIVILCOYAN 2,Controlado,107,9,2025-11-16 16:36,2025-11-16 20:39,,"0,20",-38.64805603027344,-72.9375,CONAF,Plantación pino,,Nueva Imperial,Cautín,La Araucanía,12,09 La Araucanía,2025-11-16 16:36:00,domingo,17
-786397591,EL DURAZNO,Controlado,82,8,2025-11-16 18:36,2025-11-16 21:23,,"0,25",-37.34361267089844,-72.1763916015625,CONAF,Pastizal,,Los Angeles,Biobio,Biobío,11,08 Biobío,2025-11-16 18:36:00,domingo,19
 786351215,ROMERILLO,Controlado,82,7,2025-11-16 14:31,2025-11-16 18:38,,"3,30",-35.729862213134766,-72.49478149414062,CONAF,Plantación pino,,Chanco,Cauquenes,Maule,9,07 Maule,2025-11-16 14:31:00,domingo,15
+786397591,EL DURAZNO,Controlado,82,8,2025-11-16 18:36,2025-11-16 21:23,,"0,25",-37.34361267089844,-72.1763916015625,CONAF,Pastizal,,Los Angeles,Biobio,Biobío,11,08 Biobío,2025-11-16 18:36:00,domingo,19

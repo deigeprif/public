@@ -1,7 +1,7 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
-786778887,EL VINCULO 2,En combate,114,13,2025-11-18 11:56,,,"1,50",-33.83250045776367,-70.82527923583984,CONAF,Pastizal,,Paine,Maipo,Metropolitana,7,13 Metropolitana,2025-11-18 11:56:00,martes,12
 786785765,PITRACO,En combate,115,9,2025-11-18 12:27,,,"0,01",-38.48344802856445,-72.82833099365234,CONAF,,,Cholchol,Cautín,La Araucanía,12,09 La Araucanía,2025-11-18 12:27:00,martes,13
 786375143,CHIVILCOYAN 2,Extinguido,107,9,2025-11-16 16:36,2025-11-16 20:39,2025-11-17 13:19,"0,20",-38.64805603027344,-72.9375,CONAF,Plantación pino,,Nueva Imperial,Cautín,La Araucanía,12,09 La Araucanía,2025-11-16 16:36:00,domingo,17
+786778887,EL VINCULO 2,Controlado,114,13,2025-11-18 11:56,2025-11-18 13:40,,"3,00",-33.83250045776367,-70.82527923583984,CONAF,Pastizal,,Paine,Maipo,Metropolitana,7,13 Metropolitana,2025-11-18 11:56:00,martes,12
 786165769,73 - LOMA ALTA,Extinguido,62,8,2025-11-15 10:07,2025-11-15 11:15,2025-11-15 13:26,"0,18",-36.63694381713867,-72.90528106689453,Empresa,,,Tomé,Concepción,Biobío,11,08 Biobío,2025-11-15 10:07:00,sábado,11
 786193150,PICHIBUDI,Extinguido,79,7,2025-11-15 15:10,2025-11-15 17:48,2025-11-15 18:32,"0,50",-34.8757209777832,-72.15210723876953,CONAF,Plantación eucaliptus,,Vichuquén,Curicó,Maule,9,07 Maule,2025-11-15 15:10:00,sábado,16
 786371537,ANDREA DEL VERROCHIO,Extinguido,79,5,2025-11-16 16:15,2025-11-16 17:11,2025-11-16 17:28,"0,58",-32.88519287109375,-71.26866912841797,CONAF,Pastizal,,Quillota,Quillota,Valparaíso,6,05 Valparaíso,2025-11-16 16:15:00,domingo,17

@@ -1,7 +1,8 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
 786873172,TIUQUILEMU,Extinguido,66,16,2025-11-18 17:18,2025-11-18 18:45,2025-11-18 19:07,"0,15",-36.39500045776367,-71.83694458007812,CONAF,Matorral,,Ñiquén,Punilla,Ñuble,10,16 Ñuble,2025-11-18 17:18:00,martes,18
-787623966,SAN CRISTOBAL,En combate,102,8,2025-11-21 15:58,,,nan,nan,nan,CONAF,,,Yumbel,Biobio,Biobío,11,08 Biobío,2025-11-21 15:58:00,viernes,16
+787601850,CODIHUE,En combate,137,9,2025-11-21 14:35,,,"1,50",-38.65861129760742,-73.04944610595703,CONAF,,,Nueva Imperial,Cautín,La Araucanía,12,09 La Araucanía,2025-11-21 14:35:00,viernes,15
 787603874,CHINCOLCO,Extinguido,97,5,2025-11-21 13:08,,2025-11-21 15:07,"0,13",-32.21694564819336,-70.8183364868164,CONAF,,,Petorca,Petorca,Valparaíso,6,05 Valparaíso,2025-11-21 13:08:00,viernes,14
+787623966,SAN CRISTOBAL,En combate,102,8,2025-11-21 15:58,,,"0,30",-37.184165954589844,-72.6036148071289,CONAF,,,Yumbel,Biobio,Biobío,11,08 Biobío,2025-11-21 15:58:00,viernes,16
 787612954,LA QUERENCIA,En combate,109,7,2025-11-21 15:15,,,"1,00",-35.70888900756836,-71.5152816772461,CONAF,,,Yerbas Buenas,Linares,Maule,9,07 Maule,2025-11-21 15:15:00,viernes,16
 787557284,CAPELLANIA,Extinguido,105,7,2025-11-21 11:54,2025-11-21 13:35,2025-11-21 13:36,"0,50",-35.942222595214844,-72.09750366210938,CONAF,Pastizal,,Cauquenes,Cauquenes,Maule,9,07 Maule,2025-11-21 11:54:00,viernes,12
 786906933,CODIGUA,Extinguido,118,13,2025-11-18 19:17,2025-11-18 20:15,2025-11-18 20:58,"0,60",-33.76469421386719,-71.3403091430664,CONAF,Pastizal,,Melipilla,Melipilla,Metropolitana,7,13 Metropolitana,2025-11-18 19:17:00,martes,20
@@ -11,7 +12,6 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 787585651,CALBUCO,Extinguido,127,13,2025-11-21 13:38,2025-11-21 15:24,2025-11-21 15:47,"2,00",-33.29138946533203,-70.87777709960938,CONAF,Pastizal,,Lampa,Chacabuco,Metropolitana,7,13 Metropolitana,2025-11-21 13:38:00,viernes,14
 787583408,VALLE PENCO,Controlado,136,9,2025-11-21 13:36,2025-11-21 16:07,,"2,00",-38.50638961791992,-72.58638763427734,CONAF,Matorral,,Lautaro,Cautín,La Araucanía,12,09 La Araucanía,2025-11-21 13:36:00,viernes,14
 787600151,ALTO EL ROSARIO,Extinguido,128,13,2025-11-21 14:25,2025-11-21 15:35,2025-11-21 15:51,"0,70",-33.57500076293945,-70.92749786376953,CONAF,Pastizal,,Padre Hurtado,Talagante,Metropolitana,7,13 Metropolitana,2025-11-21 14:25:00,viernes,15
-787601850,CODIHUE,En combate,137,9,2025-11-21 14:35,,,"1,50",-38.65861129760742,-73.04944610595703,CONAF,,,Nueva Imperial,Cautín,La Araucanía,12,09 La Araucanía,2025-11-21 14:35:00,viernes,15
 787618715,SANTA CARMEN,En combate,101,8,2025-11-21 15:40,,,"0,01",-37.4727783203125,-72.49500274658203,CONAF,,,Los Angeles,Biobio,Biobío,11,08 Biobío,2025-11-21 15:40:00,viernes,16
 787621114,AILINCO,En combate,138,9,2025-11-21 15:48,,,"0,40",-38.476112365722656,-72.8469467163086,CONAF,,,Galvarino,Cautín,La Araucanía,12,09 La Araucanía,2025-11-21 15:48:00,viernes,16
 786870802,FAMAE,Extinguido,116,13,2025-11-18 17:05,2025-11-18 18:49,2025-11-18 19:05,"1,00",-33.642250061035156,-70.9316635131836,CONAF,Pastizal,,Talagante,Talagante,Metropolitana,7,13 Metropolitana,2025-11-18 17:05:00,martes,18
@@ -855,7 +855,7 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 783245552,CUELCHE,Extinguido,68,9,2025-10-30 22:11,2025-10-30 23:13,2025-10-30 23:13,"0,01",-38.659637451171875,-72.89752960205078,CONAF,Matorral,,Cholchol,Cautín,La Araucanía,12,09 La Araucanía,2025-10-30 22:11:00,jueves,23
 787574448,BARBA RUBIA VII,Extinguido,107,7,2025-11-21 13:00,2025-11-21 14:21,2025-11-21 14:22,"1,40",-34.93797302246094,-71.65750122070312,CONAF,Pastizal,,Hualañé,Curicó,Maule,9,07 Maule,2025-11-21 13:00:00,viernes,14
 787599929,LLEU LLEU,Extinguido,100,8,2025-11-21 14:32,2025-11-21 15:30,2025-11-21 15:43,"0,20",-38.12111282348633,-73.3941650390625,CONAF,,,Tirúa,Arauco,Biobío,11,08 Biobío,2025-11-21 14:32:00,viernes,15
-787605988,MAL PASO,En combate,70,6,2025-11-21 14:49,,,"0,20",-34.36783218383789,-71.24871826171875,CONAF,,,Pichidegua,Cachapoal,O'Higgins,8,06 O'Higgins,2025-11-21 14:49:00,viernes,15
+787605988,MAL PASO,Controlado,70,6,2025-11-21 14:49,2025-11-21 16:33,,"0,60",-34.36783218383789,-71.24871826171875,CONAF,,,Pichidegua,Cachapoal,O'Higgins,8,06 O'Higgins,2025-11-21 14:49:00,viernes,15
 787576295,LO MARIA,En combate,108,7,2025-11-21 13:07,,,"20,00",-35.89805603027344,-72.34916687011719,CONAF,Desechos,,Cauquenes,Cauquenes,Maule,9,07 Maule,2025-11-21 13:07:00,viernes,14
 787609102,LINDEROS,Extinguido,130,13,2025-11-21 14:57,2025-11-21 16:14,2025-11-21 16:23,"1,00",-33.774166107177734,-70.7125015258789,CONAF,Pastizal,,Buin,Maipo,Metropolitana,7,13 Metropolitana,2025-11-21 14:57:00,viernes,15
 787615211,SECTOR LAS CATITAS,En combate,98,5,2025-11-21 15:27,,,"0,02",nan,nan,CONAF,,,Puchuncavi,Valparaíso,Valparaíso,6,05 Valparaíso,2025-11-21 15:27:00,viernes,16

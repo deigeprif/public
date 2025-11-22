@@ -78,6 +78,7 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 787862465,REMOLINO,Controlado,115,7,2025-11-22 14:24,2025-11-22 15:26,,"0,89",-35.0525016784668,-71.65836334228516,CONAF,Pastizal,,Hualañé,Curicó,Maule,9,07 Maule,2025-11-22 14:24:00,sábado,15
 787876128,SANTA ELVIRA,En combate,80,16,2025-11-22 15:19,,,nan,nan,nan,CONAF,,,Bulnes,Diguillín,Ñuble,10,16 Ñuble,2025-11-22 15:19:00,sábado,16
 787882018,CODIHUE 2,En combate,142,9,2025-11-22 15:16,,,"0,01",nan,nan,CONAF,,,Nueva Imperial,Cautín,La Araucanía,12,09 La Araucanía,2025-11-22 15:16:00,sábado,16
+787880864,HANGA RAU,En combate,103,5,2025-11-22 13:05,,,"3,00",nan,nan,CONAF,,Rapa Nui,Isla de Pascua,Isla de Pascua,Valparaíso Insular,6,05 Valparaíso Insular,2025-11-22 13:05:00,sábado,14
 787583408,VALLE PENCO,Extinguido,136,9,2025-11-21 13:36,2025-11-21 16:07,2025-11-22 07:19,"2,00",-38.50638961791992,-72.58638763427734,CONAF,Matorral,,Lautaro,Cautín,La Araucanía,12,09 La Araucanía,2025-11-21 13:36:00,viernes,14
 787110216,LOS VENADOS,Extinguido,126,9,2025-11-19 15:16,2025-11-19 19:22,2025-11-19 23:05,"2,00",-39.35916519165039,-72.7205581665039,CONAF,Desechos,,Loncoche,Cautín,La Araucanía,12,09 La Araucanía,2025-11-19 15:16:00,miércoles,16
 786554108,QUERONQUE,Extinguido,84,5,2025-11-17 14:20,2025-11-17 16:47,2025-11-17 19:30,"22,00",-32.98500061035156,-71.34111022949219,CONAF,Pastizal,,Limache,Marga Marga,Valparaíso,6,05 Valparaíso,2025-11-17 14:20:00,lunes,15
@@ -111,8 +112,8 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 787717168,EL GUANACO,Extinguido,76,16,2025-11-21 20:30,2025-11-21 21:40,2025-11-21 22:50,"0,00",-36.20500183105469,-72.66083526611328,Empresa,,,Quirihue,Itata,Ñuble,10,16 Ñuble,2025-11-21 20:30:00,viernes,21
 787849445,PASAJE AMORTAJADO,En combate,35,10,2025-11-22 13:35,,,"0,50",-41.63905715942383,-73.6639175415039,CONAF,,,Maullín,Llanquihue,Los Lagos,14,10 Los Lagos,2025-11-22 13:35:00,sábado,14
 787863806,CUESTA LA DORMIDA,En combate,101,5,2025-11-22 14:27,,,"1,00",-33.06305694580078,-71.0687255859375,CONAF,,,Olmué,Marga Marga,Valparaíso,6,05 Valparaíso,2025-11-22 14:27:00,sábado,15
-787859450,CALLEJON OHIGGINS,Controlado,102,5,2025-11-22 14:10,,,"0,80",-32.62905502319336,-70.72186279296875,CONAF,,,Putaendo,San Felipe de Aconcagua,Valparaíso,6,05 Valparaíso,2025-11-22 14:10:00,sábado,15
-787864009,SANTA MATILDE,En combate,135,13,2025-11-22 14:26,,,"2,00",-33.113277435302734,-70.77072143554688,CONAF,,,Tiltil,Chacabuco,Metropolitana,7,13 Metropolitana,2025-11-22 14:26:00,sábado,15
+787859450,CALLEJON OHIGGINS,Extinguido,102,5,2025-11-22 14:10,,2025-11-22 15:49,"0,40",-32.62905502319336,-70.72186279296875,CONAF,,,Putaendo,San Felipe de Aconcagua,Valparaíso,6,05 Valparaíso,2025-11-22 14:10:00,sábado,15
+787864009,SANTA MATILDE,En combate,135,13,2025-11-22 14:26,,,"2,00",-33.127445220947266,-70.7846908569336,CONAF,,,Tiltil,Chacabuco,Metropolitana,7,13 Metropolitana,2025-11-22 14:26:00,sábado,15
 786898895,GOMEZ VII,Controlado,101,7,2025-11-18 18:48,,,"120,00",-36.01688766479492,-72.64775085449219,CONAF,Plantación eucaliptus,,Pelluhue,Cauquenes,Maule,9,07 Maule,2025-11-18 18:48:00,martes,19
 786900741,GOMEZ  - XVI,Controlado,68,16,2025-11-18 18:54,2025-11-22 14:27,,"80,00",-36.016937255859375,-72.64634704589844,CONAF,Plantación eucaliptus,,Cobquecura,Itata,Ñuble,10,16 Ñuble,2025-11-18 18:54:00,martes,19
 782590195,QUINTRILPE,Extinguido,50,9,2025-10-27 11:45,2025-10-27 16:49,2025-10-27 16:50,"1,00",-38.4900016784668,-72.21277618408203,CONAF,Pastizal,,Lautaro,Cautín,La Araucanía,12,09 La Araucanía,2025-10-27 11:45:00,lunes,12

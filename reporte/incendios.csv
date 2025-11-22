@@ -900,5 +900,5 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 787849445,PASAJE AMORTAJADO,Extinguido,35,10,2025-11-22 13:35,,,"5,00",-41.63905715942383,-73.6639175415039,CONAF,Matorral,,Maullín,Llanquihue,Los Lagos,14,10 Los Lagos,2025-11-22 13:35:00,sábado,14
 787898064,PUMAITEN,Extinguido,118,7,2025-11-22 16:28,2025-11-22 17:56,2025-11-22 18:50,"1,50",-34.96687316894531,-71.13067626953125,CONAF,Pastizal,,Romeral,Curicó,Maule,9,07 Maule,2025-11-22 16:28:00,sábado,17
 787884214,SOLARES DE PUMALAL,Controlado,143,9,2025-11-22 15:46,2025-11-22 20:17,,"0,10",-38.61750030517578,-72.49694061279297,CONAF,,,Lautaro,Cautín,La Araucanía,12,09 La Araucanía,2025-11-22 15:46:00,sábado,16
-787880864,HANGA RAU,En combate,103,5,2025-11-22 13:05,,,"10,00",-27.092500686645508,-109.33499908447266,CONAF,,Rapa Nui,Isla de Pascua,Isla de Pascua,Valparaíso Insular,6,05 Valparaíso Insular,2025-11-22 13:05:00,sábado,14
+787880864,HANGA RAU,En combate,103,5,2025-11-22 13:05,,,"10,00",-27.092500686645508,-109.33499908447266,CONAF,Pastizal,Rapa Nui,Isla de Pascua,Isla de Pascua,Valparaíso Insular,6,05 Valparaíso Insular,2025-11-22 13:05:00,sábado,14
 787864321,SANTA RITA,Extinguido,114,7,2025-11-22 14:31,2025-11-22 17:43,2025-11-22 18:41,"3,50",-35.375,-71.52694702148438,CONAF,Desechos,,Pelarco,Talca,Maule,9,07 Maule,2025-11-22 14:31:00,sábado,15

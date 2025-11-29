@@ -1,6 +1,6 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
 786873172,TIUQUILEMU,Extinguido,66,16,2025-11-18 17:18,2025-11-18 18:45,2025-11-18 19:07,"0,15",-36.39500045776367,-71.83694458007812,CONAF,Matorral,,Ñiquén,Punilla,Ñuble,10,16 Ñuble,2025-11-18 17:18:00,martes,18
-787603874,CHINCOLCO,Extinguido,97,5,2025-11-21 13:08,,2025-11-21 15:07,"0,13",-32.21694564819336,-70.8183364868164,CONAF,,,Petorca,Petorca,Valparaíso,6,05 Valparaíso,2025-11-21 13:08:00,viernes,14
+787603874,CHINCOLCO,Extinguido,97,5,2025-11-21 13:08,,2025-11-21 15:07,"0,13",-32.21694564819336,-70.8183364868164,CONAF,Pastizal,,Petorca,Petorca,Valparaíso,6,05 Valparaíso,2025-11-21 13:08:00,viernes,14
 782655463,EL SEMINARIO  LLALLAUQUEN,Extinguido,26,6,2025-10-27 16:40,2025-10-27 17:38,2025-10-27 18:12,"0,20",-34.251609802246094,-71.42633056640625,CONAF,Pastizal,,Las Cabras,Cachapoal,O'Higgins,8,06 O'Higgins,2025-10-27 16:40:00,lunes,17
 786906933,CODIGUA,Extinguido,118,13,2025-11-18 19:17,2025-11-18 20:15,2025-11-18 20:58,"0,60",-33.76469421386719,-71.3403091430664,CONAF,Pastizal,,Melipilla,Melipilla,Metropolitana,7,13 Metropolitana,2025-11-18 19:17:00,martes,20
 786842304,FUNDO EL BOSQUE,Extinguido,119,13,2025-11-18 15:42,2025-11-18 21:23,2025-11-18 21:24,"0,01",-33.54288864135742,-70.80555725097656,CONAF,Pastizal,,Maipú,Santiago,Metropolitana,7,13 Metropolitana,2025-11-18 15:42:00,martes,16

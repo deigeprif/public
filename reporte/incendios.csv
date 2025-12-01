@@ -1,6 +1,5 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
 786873172,TIUQUILEMU,Extinguido,66,16,2025-11-18 17:18,2025-11-18 18:45,2025-11-18 19:07,"0,15",-36.39500045776367,-71.83694458007812,CONAF,Matorral,,Ñiquén,Punilla,Ñuble,10,16 Ñuble,2025-11-18 17:18:00,martes,18
-789752901,CHOROMBO ALTO,Extinguido,167,13,2025-11-30 15:23,2025-11-30 17:47,2025-11-30 19:18,"1,90",-33.514251708984375,-71.27571868896484,CONAF,,,María Pinto,Melipilla,Metropolitana,7,13 Metropolitana,2025-11-30 15:23:00,domingo,16
 789741695,MALLERMO,Extinguido,86,6,2025-11-30 14:35,2025-11-30 15:45,2025-11-30 17:00,"1,47",-34.344268798828125,-71.6977767944336,CONAF,Pastizal,,Marchigue,Cardenal Caro,O'Higgins,8,06 O'Higgins,2025-11-30 14:35:00,domingo,15
 789612595,CAMINO COHEN,Extinguido,53,10,2025-11-29 22:27,2025-11-30 14:11,2025-11-30 14:11,"0,20",-42.552223205566406,-73.42972564697266,CONAF,Matorral,,Quinchao,Chiloé,Los Lagos,14,10 Los Lagos,2025-11-29 22:27:00,sábado,23
 789758769,LOMAS DE CURAMAVIDA,Controlado,121,8,2025-11-30 15:55,2025-11-30 19:06,,"1,00",-37.432498931884766,-72.36138916015625,CONAF,,,Los Angeles,Biobio,Biobío,11,08 Biobío,2025-11-30 15:55:00,domingo,16
@@ -1113,3 +1112,4 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 789776626,ACCESO SUR,Extinguido,169,13,2025-11-30 17:00,,2025-11-30 18:54,"0,02",-33.643611907958984,-70.65922546386719,CONAF,Pastizal,,Puente Alto,Cordillera,Metropolitana,7,13 Metropolitana,2025-11-30 17:00:00,domingo,18
 789797061,DOÑA JACINTA,Extinguido,146,7,2025-11-30 18:25,2025-11-30 20:35,2025-11-30 21:15,"1,20",-35.391944885253906,-71.64083099365234,CONAF,Pastizal,,Talca,Talca,Maule,9,07 Maule,2025-11-30 18:25:00,domingo,19
 789778506,MANTAGUA,Extinguido,129,5,2025-11-30 17:12,2025-11-30 18:05,2025-11-30 18:59,"0,05",-32.90655517578125,-71.50091552734375,CONAF,Plantación pino,,Quintero,Valparaíso,Valparaíso,6,05 Valparaíso,2025-11-30 17:12:00,domingo,18
+789752901,CHOROMBO ALTO,Extinguido,167,13,2025-11-30 15:23,2025-11-30 17:47,2025-11-30 19:18,"1,90",-33.514251708984375,-71.27571868896484,CONAF,Pastizal,,María Pinto,Melipilla,Metropolitana,7,13 Metropolitana,2025-11-30 15:23:00,domingo,16

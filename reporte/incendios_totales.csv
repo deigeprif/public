@@ -168,7 +168,6 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 787731877,CALLEJON LAS GOLONDRINAS,Extinguido,9,11,2025-11-21 23:39,2025-11-22 00:28,2025-11-22 00:44,"0,02",-45.55512237548828,-71.96388244628906,CONAF,Otros,,Coyhaique,Coyhaique,Aysén,15,11 Aysén,2025-11-21 23:39:00,viernes,0
 790474790,PUENTE EL SAQUE,Extinguido,96,16,2025-12-03 10:15,2025-12-03 11:19,2025-12-03 11:31,"0,01",-36.63083267211914,-72.0816650390625,CONAF,,,Chillán,Diguillín,Ñuble,10,16 Ñuble,2025-12-03 10:15:00,miércoles,11
 790526873,ALTOS DE OLMUÉ,Controlado,143,5,2025-12-03 13:48,2025-12-03 15:18,,"1,50",-33.02272033691406,-71.12960815429688,CONAF,Pastizal,,Olmué,Marga Marga,Valparaíso,6,05 Valparaíso,2025-12-03 13:48:00,miércoles,14
-790539840,PANGUIROSA,En trayecto,144,5,2025-12-03 14:21,,,nan,nan,nan,CONAF,,,Santo Domingo,San Antonio,Valparaíso,6,05 Valparaíso,2025-12-03 14:21:00,miércoles,15
 784260124,SAN ADOLFO,Extinguido,62,7,2025-11-05 17:42,2025-11-05 18:20,2025-11-05 19:23,"0,60",-35.36555480957031,-71.31749725341797,CONAF,Pastizal,,Pelarco,Talca,Maule,9,07 Maule,2025-11-05 17:42:00,miércoles,18
 787718894,PUENTE SANTA JULIA,Extinguido,100,5,2025-11-21 22:51,2025-11-22 00:54,2025-11-22 01:56,"0,05",-32.90680694580078,-71.50113677978516,CONAF,Pastizal,,Quintero,Valparaíso,Valparaíso,6,05 Valparaíso,2025-11-21 22:51:00,viernes,23
 788119628,GUAPI,Extinguido,121,7,2025-11-23 15:48,2025-11-23 16:59,2025-11-23 17:16,"1,10",-35.87302780151367,-71.6080551147461,CONAF,Pastizal,,Linares,Linares,Maule,9,07 Maule,2025-11-23 15:48:00,domingo,16
@@ -183,7 +182,8 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 788106137,CERRO BLANCO,Extinguido,139,13,2025-11-23 14:47,2025-11-23 15:56,2025-11-23 15:59,"0,30",-33.417415618896484,-70.6461410522461,CONAF,Pastizal,,Recoleta,Santiago,Metropolitana,7,13 Metropolitana,2025-11-23 14:47:00,domingo,15
 790542574,MORGUILLA,Controlado,129,8,2025-12-03 14:43,2025-12-03 15:16,,"0,30",-37.71500015258789,-73.64722442626953,CONAF,,,Lebu,Arauco,Biobío,11,08 Biobío,2025-12-03 14:43:00,miércoles,15
 790551416,LLIU LLIU 3,En combate,145,5,2025-12-03 15:09,,,nan,nan,nan,CONAF,,,Limache,Marga Marga,Valparaíso,6,05 Valparaíso,2025-12-03 15:09:00,miércoles,16
-790547927,BENIGNO CALDERA,En trayecto,146,5,2025-12-03 14:58,,,nan,nan,nan,CONAF,,,San Felipe,San Felipe de Aconcagua,Valparaíso,6,05 Valparaíso,2025-12-03 14:58:00,miércoles,15
+790547927,BENIGNO CALDERA,En combate,146,5,2025-12-03 14:58,,,"0,05",-32.74641799926758,-70.74402618408203,CONAF,,,San Felipe,San Felipe de Aconcagua,Valparaíso,6,05 Valparaíso,2025-12-03 14:58:00,miércoles,15
+790539840,PANGUIROSA,En combate,144,5,2025-12-03 14:21,,,nan,nan,nan,CONAF,,,Santo Domingo,San Antonio,Valparaíso,6,05 Valparaíso,2025-12-03 14:21:00,miércoles,15
 787088983,PORTAL NEVADO,Extinguido,92,5,2025-11-19 14:00,2025-11-19 16:00,2025-11-19 16:36,"0,13",-32.81622314453125,-70.61911010742188,CONAF,Pastizal,,Los Andes,Los Andes,Valparaíso,6,05 Valparaíso,2025-11-19 14:00:00,miércoles,15
 787041834,CERRO LAS CABRAS 3,Extinguido,120,13,2025-11-19 11:00,2025-11-19 12:08,2025-11-19 12:14,"0,09",-33.62083435058594,-70.60305786132812,CONAF,Pastizal,,Puente Alto,Cordillera,Metropolitana,7,13 Metropolitana,2025-11-19 11:00:00,miércoles,12
 786230954,EL ALMENDRO ORIENTE,Extinguido,96,13,2025-11-15 19:24,2025-11-15 20:44,2025-11-15 21:02,"0,10",-33.38155746459961,-70.61135864257812,CONAF,Pastizal,,Huechuraba,Santiago,Metropolitana,7,13 Metropolitana,2025-11-15 19:24:00,sábado,20

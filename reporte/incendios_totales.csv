@@ -1,4 +1,5 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
+792373619,LAS TEJAS,En combate,164,8,2025-12-10 13:21,,,"0,70",-37.16444396972656,-72.35639190673828,CONAF,,,Cabrero,Biobio,Biobío,11,08 Biobío,2025-12-10 13:21:00,miércoles,14
 791831373,SANTA REBECA,Extinguido,184,7,2025-12-08 13:20,2025-12-08 14:58,2025-12-08 16:57,"0,60",-35.09694290161133,-71.23583221435547,CONAF,Pastizal,,Molina,Curicó,Maule,9,07 Maule,2025-12-08 13:20:00,lunes,14
 791833535,EL LINGUE BAJO 2,Extinguido,205,9,2025-12-08 13:33,2025-12-08 19:18,2025-12-09 21:22,"0,29",-38.12004470825195,-72.99333953857422,CONAF,Plantación pino,,Purén,Malleco,La Araucanía,12,09 La Araucanía,2025-12-08 13:33:00,lunes,14
 786873172,TIUQUILEMU,Extinguido,66,16,2025-11-18 17:18,2025-11-18 18:45,2025-11-18 19:07,"0,15",-36.39500045776367,-71.83694458007812,CONAF,Matorral,,Ñiquén,Punilla,Ñuble,10,16 Ñuble,2025-11-18 17:18:00,martes,18
@@ -128,7 +129,6 @@ id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon
 791848261,LOS CAPACHOS,Extinguido,206,13,2025-12-08 14:20,2025-12-08 15:42,2025-12-08 15:59,"0,50",-33.42988967895508,-71.16780853271484,CONAF,Pastizal,,Curacaví,Melipilla,Metropolitana,7,13 Metropolitana,2025-12-08 14:20:00,lunes,15
 792166884,CHEÑUE,En combate,64,10,2025-12-09 16:50,,,"0,30",-42.0041389465332,-72.71636199951172,CONAF,Matorral,,Hualaihué,Palena,Los Lagos,14,10 Los Lagos,2025-12-09 16:50:00,martes,17
 791876146,PELLUCO ALTO,Extinguido,60,10,2025-12-08 15:50,2025-12-08 16:30,2025-12-08 17:04,"0,07",-41.48324966430664,-72.88249969482422,CONAF,,,Puerto Montt,Llanquihue,Los Lagos,14,10 Los Lagos,2025-12-08 15:50:00,lunes,16
-792373619,LAS TEJAS,En combate,164,8,2025-12-10 13:21,,,"0,70",-37.16444396972656,-72.35639190673828,CONAF,,,Cabrero,Biobio,Biobío,11,08 Biobío,2025-12-10 13:21:00,miércoles,14
 792380982,LIRCAY,En combate,221,9,2025-12-10 13:48,,,"0,01",-38.71889877319336,-72.66281127929688,CONAF,,,Temuco,Cautín,La Araucanía,12,09 La Araucanía,2025-12-10 13:48:00,miércoles,14
 787642035,ACONCAGUA,Extinguido,132,13,2025-11-21 15:47,2025-11-21 17:42,2025-11-21 17:52,"0,50",-33.18894577026367,-70.67666625976562,CONAF,Pastizal,,Colina,Chacabuco,Metropolitana,7,13 Metropolitana,2025-11-21 15:47:00,viernes,16
 791838052,BOLDO GUACHO,Extinguido,206,9,2025-12-08 13:30,2025-12-08 18:25,2025-12-09 11:08,"2,00",-38.845001220703125,-73.0250015258789,CONAF,Plantación eucaliptus,,Nueva Imperial,Cautín,La Araucanía,12,09 La Araucanía,2025-12-08 13:30:00,lunes,14

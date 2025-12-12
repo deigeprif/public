@@ -1,6 +1,6 @@
 id,nombre,estado,num_reg,reg_id,f_inicio,f_control,f_extincion,sup_total,lat,lon,ambito,comb_inicial,snaspe,comuna,provincia,region,reg_order,nom_order,fmt_inicio,dia_nom,rango_hora
 791600311,CERRO HUEIHUEN LA ANTENA,Extinguido,57,10,2025-12-07 12:20,2025-12-07 14:58,2025-12-07 14:58,"0,01",-41.865570068359375,-73.80723571777344,CONAF,Matorral,,Ancud,Chiloé,Los Lagos,14,10 Los Lagos,2025-12-07 12:20:00,domingo,13
-792957095,MONTE ALEGRE,En combate,228,13,2025-12-12 15:00,,,"0,50",-33.63666534423828,-71.30821990966797,CONAF,Pastizal,,Melipilla,Melipilla,Metropolitana,7,13 Metropolitana,2025-12-12 15:00:00,viernes,16
+792957095,MONTE ALEGRE,Controlado,228,13,2025-12-12 15:00,2025-12-12 16:18,,"0,50",-33.63666534423828,-71.30821990966797,CONAF,Pastizal,,Melipilla,Melipilla,Metropolitana,7,13 Metropolitana,2025-12-12 15:00:00,viernes,16
 791831373,SANTA REBECA,Extinguido,184,7,2025-12-08 13:20,2025-12-08 14:58,2025-12-08 16:57,"0,60",-35.09694290161133,-71.23583221435547,CONAF,Pastizal,,Molina,Curicó,Maule,9,07 Maule,2025-12-08 13:20:00,lunes,14
 791833535,EL LINGUE BAJO 2,Extinguido,205,9,2025-12-08 13:33,2025-12-08 19:18,2025-12-09 21:22,"0,29",-38.12004470825195,-72.99333953857422,CONAF,Plantación pino,,Purén,Malleco,La Araucanía,12,09 La Araucanía,2025-12-08 13:33:00,lunes,14
 792721080,LOS ANGELES,Extinguido,170,8,2025-12-11 17:43,2025-12-11 19:02,2025-12-11 19:02,"0,01",-37.473331451416016,-72.38055419921875,CONAF,Pastizal,,Los Angeles,Biobio,Biobío,11,08 Biobío,2025-12-11 17:43:00,jueves,18

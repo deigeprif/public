@@ -1,10 +1,10 @@
 latitude,longitude,acq_date,acq_time,satellite,instrument,confidence,frp,daynight,datetime,timezone,localtime,time_diff,diff_class,rlocaltime,index_right,CUT,reg_order,reg,prov,com,nom_minrel,nom_order
--22.329,-68.895,2026-07-15,0837,G19FRP,GOES,52.0,"10,30",D,2026-07-15 08:37,America/Santiago,2026-07-15 04:37,"46,37",48,2026-07-15 04:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.309,-68.876,2026-07-15,0837,G19FRP,GOES,61.0,"13,10",D,2026-07-15 08:37,America/Santiago,2026-07-15 04:37,"46,37",48,2026-07-15 04:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31457,-68.88206,2026-07-16,0521,N20,VIIRS,n,"2,95",N,2026-07-16 05:21,America/Santiago,2026-07-16 01:21,"25,64",48,2026-07-16 01:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.3172,-68.88305,2026-07-16,0605,N21,VIIRS,n,"8,86",N,2026-07-16 06:05,America/Santiago,2026-07-16 02:05,"24,90",48,2026-07-16 02:10,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31957,-68.88228,2026-07-16,1747,N20,VIIRS,n,"4,32",D,2026-07-16 17:47,America/Santiago,2026-07-16 13:47,"13,20",24,2026-07-16 13:50,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.780632,-69.42131,2026-07-16,1840,G18,GOES,10.0,"166,87",D,2026-07-16 18:40,America/Santiago,2026-07-16 14:40,"12,32",24,2026-07-16 14:40,237.0,2302.0,3.0,Antofagasta,Tocopilla,María Elena,ANTOF,02 Antofagasta
--22.31684,-68.88393,2026-07-17,0134,Terra,MODIS,59,"9,79",N,2026-07-17 01:34,America/Santiago,2026-07-16 21:34,"5,42",6,2026-07-16 21:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.33,-68.875,2026-07-17,0217,G19FRP,GOES,65.0,"9,30",D,2026-07-17 02:17,America/Santiago,2026-07-16 22:17,"4,70",6,2026-07-16 22:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.309,-68.876,2026-07-17,0617,G19FRP,GOES,61.0,"8,50",D,2026-07-17 06:17,America/Santiago,2026-07-17 02:17,"0,70",0,2026-07-17 02:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.329,-68.895,2026-07-15,0837,G19FRP,GOES,52.0,"10,30",D,2026-07-15 08:37,America/Santiago,2026-07-15 04:37,"46,54",48,2026-07-15 04:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.309,-68.876,2026-07-15,0837,G19FRP,GOES,61.0,"13,10",D,2026-07-15 08:37,America/Santiago,2026-07-15 04:37,"46,54",48,2026-07-15 04:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31457,-68.88206,2026-07-16,0521,N20,VIIRS,n,"2,95",N,2026-07-16 05:21,America/Santiago,2026-07-16 01:21,"25,80",48,2026-07-16 01:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.3172,-68.88305,2026-07-16,0605,N21,VIIRS,n,"8,86",N,2026-07-16 06:05,America/Santiago,2026-07-16 02:05,"25,07",48,2026-07-16 02:10,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31957,-68.88228,2026-07-16,1747,N20,VIIRS,n,"4,32",D,2026-07-16 17:47,America/Santiago,2026-07-16 13:47,"13,37",24,2026-07-16 13:50,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.780632,-69.42131,2026-07-16,1840,G18,GOES,10.0,"166,87",D,2026-07-16 18:40,America/Santiago,2026-07-16 14:40,"12,49",24,2026-07-16 14:40,237.0,2302.0,3.0,Antofagasta,Tocopilla,María Elena,ANTOF,02 Antofagasta
+-22.31684,-68.88393,2026-07-17,0134,Terra,MODIS,59,"9,79",N,2026-07-17 01:34,America/Santiago,2026-07-16 21:34,"5,59",6,2026-07-16 21:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.33,-68.875,2026-07-17,0217,G19FRP,GOES,65.0,"9,30",D,2026-07-17 02:17,America/Santiago,2026-07-16 22:17,"4,87",6,2026-07-16 22:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.309,-68.876,2026-07-17,0617,G19FRP,GOES,61.0,"8,50",D,2026-07-17 06:17,America/Santiago,2026-07-17 02:17,"0,87",0,2026-07-17 02:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta

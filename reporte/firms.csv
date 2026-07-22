@@ -1,6 +1,6 @@
 latitude,longitude,acq_date,acq_time,satellite,instrument,confidence,frp,daynight,datetime,timezone,localtime,time_diff,diff_class,rlocaltime,index_right,CUT,reg_order,reg,prov,com,nom_minrel,nom_order
--41.535,-73.153,2026-07-21,0238,G19FRP,GOES,53.0,"16,50",D,2026-07-21 02:38,America/Santiago,2026-07-20 22:38,"22,69",24,2026-07-20 22:40,333.0,10101.0,14.0,Los Lagos,Llanquihue,Puerto Montt,LAGOS,10 Los Lagos
--17.75639,-69.55502,2026-07-21,1756,N20,VIIRS,n,"5,31",D,2026-07-21 17:56,America/Santiago,2026-07-21 13:56,"7,39",12,2026-07-21 14:00,164.0,15202.0,1.0,Arica y Parinacota,Parinacota,General Lagos,AyP,15 Arica y Parinacota
--19.70606,-68.77253,2026-07-21,1843,N21,VIIRS,n,"7,07",D,2026-07-21 18:43,America/Santiago,2026-07-21 14:43,"6,60",12,2026-07-21 14:50,252.0,1403.0,2.0,Tarapacá,Tamarugal,Colchane,TPCA,01 Tarapacá
--41.18987,-73.18665,2026-07-21,1930,N20,VIIRS,n,"8,91",D,2026-07-21 19:30,America/Santiago,2026-07-21 15:30,"5,82",6,2026-07-21 15:30,284.0,10107.0,14.0,Los Lagos,Llanquihue,Llanquihue,LAGOS,10 Los Lagos
--41.18833,-73.186,2026-07-21,1930,N20,VIIRS,n,"7,51",D,2026-07-21 19:30,America/Santiago,2026-07-21 15:30,"5,82",6,2026-07-21 15:30,284.0,10107.0,14.0,Los Lagos,Llanquihue,Llanquihue,LAGOS,10 Los Lagos
+-41.535,-73.153,2026-07-21,0238,G19FRP,GOES,53.0,"16,50",D,2026-07-21 02:38,America/Santiago,2026-07-20 22:38,"22,85",24,2026-07-20 22:40,333.0,10101.0,14.0,Los Lagos,Llanquihue,Puerto Montt,LAGOS,10 Los Lagos
+-17.75639,-69.55502,2026-07-21,1756,N20,VIIRS,n,"5,31",D,2026-07-21 17:56,America/Santiago,2026-07-21 13:56,"7,55",12,2026-07-21 14:00,164.0,15202.0,1.0,Arica y Parinacota,Parinacota,General Lagos,AyP,15 Arica y Parinacota
+-19.70606,-68.77253,2026-07-21,1843,N21,VIIRS,n,"7,07",D,2026-07-21 18:43,America/Santiago,2026-07-21 14:43,"6,77",12,2026-07-21 14:50,252.0,1403.0,2.0,Tarapacá,Tamarugal,Colchane,TPCA,01 Tarapacá
+-41.18987,-73.18665,2026-07-21,1930,N20,VIIRS,n,"8,91",D,2026-07-21 19:30,America/Santiago,2026-07-21 15:30,"5,99",6,2026-07-21 15:30,284.0,10107.0,14.0,Los Lagos,Llanquihue,Llanquihue,LAGOS,10 Los Lagos
+-41.18833,-73.186,2026-07-21,1930,N20,VIIRS,n,"7,51",D,2026-07-21 19:30,America/Santiago,2026-07-21 15:30,"5,99",6,2026-07-21 15:30,284.0,10107.0,14.0,Los Lagos,Llanquihue,Llanquihue,LAGOS,10 Los Lagos

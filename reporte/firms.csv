@@ -1,12 +1,12 @@
 latitude,longitude,acq_date,acq_time,satellite,instrument,confidence,frp,daynight,datetime,timezone,localtime,time_diff,diff_class,rlocaltime,index_right,CUT,reg_order,reg,prov,com,nom_minrel,nom_order
--23.82199,-70.31576,2026-07-23,0536,N21,VIIRS,n,"1,00",N,2026-07-23 05:36,America/Santiago,2026-07-23 01:36,"25,39",48,2026-07-23 01:40,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.78477,-70.32089,2026-07-23,0536,N21,VIIRS,n,"0,95",N,2026-07-23 05:36,America/Santiago,2026-07-23 01:36,"25,39",48,2026-07-23 01:40,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.82571,-70.3165,2026-07-23,0536,N21,VIIRS,n,"1,00",N,2026-07-23 05:36,America/Santiago,2026-07-23 01:36,"25,39",48,2026-07-23 01:40,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.78311,-70.3182,2026-07-23,0610,N,VIIRS,n,"1,09",N,2026-07-23 06:10,America/Santiago,2026-07-23 02:10,"24,82",48,2026-07-23 02:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.8227,-70.31649,2026-07-23,0610,N,VIIRS,n,"1,23",N,2026-07-23 06:10,America/Santiago,2026-07-23 02:10,"24,82",48,2026-07-23 02:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.82187,-70.31595,2026-07-23,0629,N20,VIIRS,n,"1,96",N,2026-07-23 06:29,America/Santiago,2026-07-23 02:29,"24,51",48,2026-07-23 02:30,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--22.77341,-69.47493,2026-07-23,1858,N20,VIIRS,h,"3,53",D,2026-07-23 18:58,America/Santiago,2026-07-23 14:58,"12,02",24,2026-07-23 15:00,237.0,2302.0,3.0,Antofagasta,Tocopilla,María Elena,ANTOF,02 Antofagasta
--23.82364,-70.31776,2026-07-24,0516,N21,VIIRS,n,"2,44",N,2026-07-24 05:16,America/Santiago,2026-07-24 01:16,"1,72",3,2026-07-24 01:20,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.78548,-70.32066,2026-07-24,0516,N21,VIIRS,n,"0,93",N,2026-07-24 05:16,America/Santiago,2026-07-24 01:16,"1,72",3,2026-07-24 01:20,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.78176,-70.32076,2026-07-24,0516,N21,VIIRS,n,"1,87",N,2026-07-24 05:16,America/Santiago,2026-07-24 01:16,"1,72",3,2026-07-24 01:20,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--27.35705,-70.22093,2026-07-24,0518,N21,VIIRS,n,"0,88",N,2026-07-24 05:18,America/Santiago,2026-07-24 01:18,"1,69",3,2026-07-24 01:20,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
+-23.82199,-70.31576,2026-07-23,0536,N21,VIIRS,n,"1,00",N,2026-07-23 05:36,America/Santiago,2026-07-23 01:36,"25,55",48,2026-07-23 01:40,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.78477,-70.32089,2026-07-23,0536,N21,VIIRS,n,"0,95",N,2026-07-23 05:36,America/Santiago,2026-07-23 01:36,"25,55",48,2026-07-23 01:40,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.82571,-70.3165,2026-07-23,0536,N21,VIIRS,n,"1,00",N,2026-07-23 05:36,America/Santiago,2026-07-23 01:36,"25,55",48,2026-07-23 01:40,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.78311,-70.3182,2026-07-23,0610,N,VIIRS,n,"1,09",N,2026-07-23 06:10,America/Santiago,2026-07-23 02:10,"24,99",48,2026-07-23 02:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.8227,-70.31649,2026-07-23,0610,N,VIIRS,n,"1,23",N,2026-07-23 06:10,America/Santiago,2026-07-23 02:10,"24,99",48,2026-07-23 02:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.82187,-70.31595,2026-07-23,0629,N20,VIIRS,n,"1,96",N,2026-07-23 06:29,America/Santiago,2026-07-23 02:29,"24,67",48,2026-07-23 02:30,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-22.77341,-69.47493,2026-07-23,1858,N20,VIIRS,h,"3,53",D,2026-07-23 18:58,America/Santiago,2026-07-23 14:58,"12,19",24,2026-07-23 15:00,237.0,2302.0,3.0,Antofagasta,Tocopilla,María Elena,ANTOF,02 Antofagasta
+-23.82364,-70.31776,2026-07-24,0516,N21,VIIRS,n,"2,44",N,2026-07-24 05:16,America/Santiago,2026-07-24 01:16,"1,89",3,2026-07-24 01:20,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.78548,-70.32066,2026-07-24,0516,N21,VIIRS,n,"0,93",N,2026-07-24 05:16,America/Santiago,2026-07-24 01:16,"1,89",3,2026-07-24 01:20,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.78176,-70.32076,2026-07-24,0516,N21,VIIRS,n,"1,87",N,2026-07-24 05:16,America/Santiago,2026-07-24 01:16,"1,89",3,2026-07-24 01:20,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-27.35705,-70.22093,2026-07-24,0518,N21,VIIRS,n,"0,88",N,2026-07-24 05:18,America/Santiago,2026-07-24 01:18,"1,85",3,2026-07-24 01:20,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama

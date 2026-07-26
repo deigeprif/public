@@ -1,11 +1,11 @@
 latitude,longitude,acq_date,acq_time,satellite,instrument,confidence,frp,daynight,datetime,timezone,localtime,time_diff,diff_class,rlocaltime,index_right,CUT,reg_order,reg,prov,com,nom_minrel,nom_order
--27.35802,-70.22184,2026-07-25,0533,N,VIIRS,n,"0,61",N,2026-07-25 05:33,America/Santiago,2026-07-25 01:33,"37,28",48,2026-07-25 01:40,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
--27.35927,-70.22063,2026-07-25,0555,N20,VIIRS,n,"0,79",N,2026-07-25 05:55,America/Santiago,2026-07-25 01:55,"36,91",48,2026-07-25 02:00,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
--20.45554,-69.53223,2026-07-25,1819,N20,VIIRS,l,"6,10",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,242.0,1401.0,2.0,Tarapacá,Tamarugal,Pozo Almonte,TPCA,01 Tarapacá
--20.45886,-69.53167,2026-07-25,1819,N20,VIIRS,h,"6,10",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,242.0,1401.0,2.0,Tarapacá,Tamarugal,Pozo Almonte,TPCA,01 Tarapacá
--27.49468,-70.37971,2026-07-25,1819,N20,VIIRS,n,"3,45",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
--27.85573,-70.17061,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
--27.85283,-70.17547,2026-07-25,1819,N20,VIIRS,n,"3,96",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
--27.8592,-70.16998,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
--27.85978,-70.17425,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
--27.8563,-70.17488,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,51",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
+-27.35802,-70.22184,2026-07-25,0533,N,VIIRS,n,"0,61",N,2026-07-25 05:33,America/Santiago,2026-07-25 01:33,"37,46",48,2026-07-25 01:40,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
+-27.35927,-70.22063,2026-07-25,0555,N20,VIIRS,n,"0,79",N,2026-07-25 05:55,America/Santiago,2026-07-25 01:55,"37,10",48,2026-07-25 02:00,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
+-20.45554,-69.53223,2026-07-25,1819,N20,VIIRS,l,"6,10",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,242.0,1401.0,2.0,Tarapacá,Tamarugal,Pozo Almonte,TPCA,01 Tarapacá
+-20.45886,-69.53167,2026-07-25,1819,N20,VIIRS,h,"6,10",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,242.0,1401.0,2.0,Tarapacá,Tamarugal,Pozo Almonte,TPCA,01 Tarapacá
+-27.49468,-70.37971,2026-07-25,1819,N20,VIIRS,n,"3,45",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,139.0,3101.0,4.0,Atacama,Copiapó,Copiapó,ATCMA,03 Atacama
+-27.85573,-70.17061,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
+-27.85283,-70.17547,2026-07-25,1819,N20,VIIRS,n,"3,96",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
+-27.8592,-70.16998,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
+-27.85978,-70.17425,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama
+-27.8563,-70.17488,2026-07-25,1819,N20,VIIRS,n,"3,68",D,2026-07-25 18:19,America/Santiago,2026-07-25 14:19,"24,70",48,2026-07-25 14:20,246.0,3103.0,4.0,Atacama,Copiapó,Tierra Amarilla,ATCMA,03 Atacama

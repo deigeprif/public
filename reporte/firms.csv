@@ -1,17 +1,17 @@
 latitude,longitude,acq_date,acq_time,satellite,instrument,confidence,frp,daynight,datetime,timezone,localtime,time_diff,diff_class,rlocaltime,index_right,CUT,reg_order,reg,prov,com,nom_minrel,nom_order
--22.329,-68.895,2026-09-19,0117,G19FRP,GOES,74.0,"12,40",D,2026-09-19 01:17,America/Santiago,2026-09-18 22:17,"47,54",48,2026-09-18 22:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.309,-68.896,2026-09-19,0747,G19FRP,GOES,61.0,"10,30",D,2026-09-19 07:47,America/Santiago,2026-09-19 04:47,"41,04",48,2026-09-19 04:50,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31516,-68.88135,2026-09-20,0527,N21,VIIRS,n,"11,58",N,2026-09-20 05:27,America/Santiago,2026-09-20 02:27,"19,37",24,2026-09-20 02:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31887,-68.88245,2026-09-20,0527,N21,VIIRS,n,"0,97",N,2026-09-20 05:27,America/Santiago,2026-09-20 02:27,"19,37",24,2026-09-20 02:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31595,-68.88223,2026-09-20,0605,N,VIIRS,n,"6,35",N,2026-09-20 06:05,America/Santiago,2026-09-20 03:05,"18,74",24,2026-09-20 03:10,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--23.82361,-70.31668,2026-09-20,0605,N,VIIRS,n,"1,31",N,2026-09-20 06:05,America/Santiago,2026-09-20 03:05,"18,74",24,2026-09-20 03:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.82302,-70.3205,2026-09-20,0605,N,VIIRS,n,"1,31",N,2026-09-20 06:05,America/Santiago,2026-09-20 03:05,"18,74",24,2026-09-20 03:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--22.31691,-68.88203,2026-09-20,0622,N20,VIIRS,n,"2,61",N,2026-09-20 06:22,America/Santiago,2026-09-20 03:22,"18,45",24,2026-09-20 03:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.329,-68.895,2026-09-20,0917,G19FRP,GOES,74.0,"22,30",D,2026-09-20 09:17,America/Santiago,2026-09-20 06:17,"15,54",24,2026-09-20 06:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31731,-68.88185,2026-09-20,1758,N21,VIIRS,n,"28,38",D,2026-09-20 17:58,America/Santiago,2026-09-20 14:58,"6,85",12,2026-09-20 15:00,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--32.80452,-70.95193,2026-09-20,1832,N,VIIRS,n,"3,01",D,2026-09-20 18:32,America/Santiago,2026-09-20 15:32,"6,29",12,2026-09-20 15:40,123.0,5702.0,6.0,Valparaíso,San Felipe de Aconcagua,Catemu,VALPO,05 Valparaíso
--22.31634,-68.87964,2026-09-20,1834,N,VIIRS,n,"9,94",D,2026-09-20 18:34,America/Santiago,2026-09-20 15:34,"6,25",12,2026-09-20 15:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--23.8253,-70.31659,2026-09-20,1851,N20,VIIRS,l,"3,01",D,2026-09-20 18:51,America/Santiago,2026-09-20 15:51,"5,97",6,2026-09-20 16:00,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--23.82442,-70.31221,2026-09-20,1851,N20,VIIRS,n,"3,01",D,2026-09-20 18:51,America/Santiago,2026-09-20 15:51,"5,97",6,2026-09-20 16:00,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
--22.31667,-68.8822,2026-09-20,1853,N20,VIIRS,n,"8,14",D,2026-09-20 18:53,America/Santiago,2026-09-20 15:53,"5,94",6,2026-09-20 16:00,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
--22.31596,-68.87974,2026-09-20,1853,N20,VIIRS,n,"7,82",D,2026-09-20 18:53,America/Santiago,2026-09-20 15:53,"5,94",6,2026-09-20 16:00,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.329,-68.895,2026-09-19,0117,G19FRP,GOES,74.0,"12,40",D,2026-09-19 01:17,America/Santiago,2026-09-18 22:17,"47,70",48,2026-09-18 22:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.309,-68.896,2026-09-19,0747,G19FRP,GOES,61.0,"10,30",D,2026-09-19 07:47,America/Santiago,2026-09-19 04:47,"41,20",48,2026-09-19 04:50,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31516,-68.88135,2026-09-20,0527,N21,VIIRS,n,"11,58",N,2026-09-20 05:27,America/Santiago,2026-09-20 02:27,"19,54",24,2026-09-20 02:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31887,-68.88245,2026-09-20,0527,N21,VIIRS,n,"0,97",N,2026-09-20 05:27,America/Santiago,2026-09-20 02:27,"19,54",24,2026-09-20 02:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31595,-68.88223,2026-09-20,0605,N,VIIRS,n,"6,35",N,2026-09-20 06:05,America/Santiago,2026-09-20 03:05,"18,90",24,2026-09-20 03:10,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-23.82361,-70.31668,2026-09-20,0605,N,VIIRS,n,"1,31",N,2026-09-20 06:05,America/Santiago,2026-09-20 03:05,"18,90",24,2026-09-20 03:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.82302,-70.3205,2026-09-20,0605,N,VIIRS,n,"1,31",N,2026-09-20 06:05,America/Santiago,2026-09-20 03:05,"18,90",24,2026-09-20 03:10,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-22.31691,-68.88203,2026-09-20,0622,N20,VIIRS,n,"2,61",N,2026-09-20 06:22,America/Santiago,2026-09-20 03:22,"18,62",24,2026-09-20 03:30,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.329,-68.895,2026-09-20,0917,G19FRP,GOES,74.0,"22,30",D,2026-09-20 09:17,America/Santiago,2026-09-20 06:17,"15,70",24,2026-09-20 06:20,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31731,-68.88185,2026-09-20,1758,N21,VIIRS,n,"28,38",D,2026-09-20 17:58,America/Santiago,2026-09-20 14:58,"7,02",12,2026-09-20 15:00,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-32.80452,-70.95193,2026-09-20,1832,N,VIIRS,n,"3,01",D,2026-09-20 18:32,America/Santiago,2026-09-20 15:32,"6,45",12,2026-09-20 15:40,123.0,5702.0,6.0,Valparaíso,San Felipe de Aconcagua,Catemu,VALPO,05 Valparaíso
+-22.31634,-68.87964,2026-09-20,1834,N,VIIRS,n,"9,94",D,2026-09-20 18:34,America/Santiago,2026-09-20 15:34,"6,42",12,2026-09-20 15:40,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-23.8253,-70.31659,2026-09-20,1851,N20,VIIRS,l,"3,01",D,2026-09-20 18:51,America/Santiago,2026-09-20 15:51,"6,14",12,2026-09-20 16:00,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-23.82442,-70.31221,2026-09-20,1851,N20,VIIRS,n,"3,01",D,2026-09-20 18:51,America/Santiago,2026-09-20 15:51,"6,14",12,2026-09-20 16:00,239.0,2101.0,3.0,Antofagasta,Antofagasta,Antofagasta,ANTOF,02 Antofagasta
+-22.31667,-68.8822,2026-09-20,1853,N20,VIIRS,n,"8,14",D,2026-09-20 18:53,America/Santiago,2026-09-20 15:53,"6,10",12,2026-09-20 16:00,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
+-22.31596,-68.87974,2026-09-20,1853,N20,VIIRS,n,"7,82",D,2026-09-20 18:53,America/Santiago,2026-09-20 15:53,"6,10",12,2026-09-20 16:00,236.0,2201.0,3.0,Antofagasta,El Loa,Calama,ANTOF,02 Antofagasta
